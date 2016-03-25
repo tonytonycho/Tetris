@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+    
+    <ImageView android:id="@+id/menubackground"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        />
+    <ImageButton android:id="@+id/startgame"
+        android:layout_width="215dp"
+        android:layout_height="58dp"
+        android:background="#00000000"
+        />
+    
+    <!--  
+   <ImageButton android:id="@+id/moregame"
+        android:layout_width="215dp"
+        android:layout_height="58dp"
+        />
+        
+   <ImageButton android:id="@+id/option"
+        android:layout_width="215dp"
+        android:layout_height="58dp"
+        />
+   
+   <ImageButton android:id="@+id/aboutgame"
+        android:layout_width="215dp"
+        android:layout_height="58dp"
+        />
+        -->
+</RelativeLayout>
